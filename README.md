@@ -19,4 +19,4 @@ To run a package with `-m`, create a `__main__.py` module. When naming a package
 Reference:
 1. https://packaging.python.org/tutorials/packaging-projects/.
 2. https://www.programiz.com/python-programming/modules
-
+3. https://stackoverflow.com/a/22250157/12705269

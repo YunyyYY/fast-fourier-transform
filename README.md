@@ -2,7 +2,9 @@
 
 Just out of curiosity: how to build a python package. A simple FFT based on the article https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/.
 
-The test script should be run as a module,
+Behaves differently on different operating systems.
+
+Test script should be run as a module,
 ```python
 python -m tests.test_fft
 ```
